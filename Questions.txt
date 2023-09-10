@@ -1,0 +1,13 @@
+Q.4 Write a short note on Tag & element with an example ?
+---> HTML tags are starting to an ending point of an HTML element.
+     e.g     <p> --> Starting point / Ending point </p>
+
+    HTML element is written inside HTML tags
+    e.g      <p> Enter a random name </p>
+
+
+
+Q.5 What is the DOCTYPE Declaration in HTML ?
+
+---> DOCTYPE HTML is an type declaration in html .it consists order to the web-browser about what 
+     version of HTML is invoked
